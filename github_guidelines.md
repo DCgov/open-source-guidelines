@@ -40,6 +40,6 @@ On a final note, this document assumes basic fluency in key Git concepts such as
 - My supervisor has reviewed my analysis and agreed in writing (email) that I can move forward.
 - I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
 
-### Scenario 4: I want to use GitHub to work on a new project in a private repository
+### Scenario 5: I want to use GitHub to work on a new project in a private repository
 
-Creating private repositories within DCgov is discouraged. If you believe you have a valid reason to do so, send an email explaining the repository's proposed contents and your reasoning to opensource@dc.gov.
+Creating private repositories within DCgov is discouraged. If you believe you have a valid reason to do so, send an email explaining the repository's proposed contents and your explanation to opensource@dc.gov.
