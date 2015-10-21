@@ -30,10 +30,10 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Getting Started on GitHub
+- text: Getting Started
   url: getting_started.html
   internal: true
-- text: Working on GitHub
+- text: Working in the Open
   url: github_guidelines.html
   internal: true
 - text: Edit this Repo
