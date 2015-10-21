@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: Open Source Guidelines
+name: DC Open Source Guidelines
 subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
