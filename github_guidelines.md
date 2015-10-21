@@ -27,15 +27,19 @@ On a final note, this document assumes basic fluency in key Git concepts such as
 - I have determined that the license(s) and contract(s) governing the project's contents permit their public release.
 - I have sent an email to opensource@dc.gov, laying out the repository's proposed content and received confirmation.
 
-### Scenario 3: I want to use GitHub to work on a new project in the open
+### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
+
+- My commits do not contain any private keys, tokens, passwords, or other authentication information.
+- My commits do not contain any personally identifiable information.
+- My commits' contents are in line with the repository's existing license.
+
+### Scenario 4: I want to use GitHub to work on a new project in the open
 
 - I have confirmed that the repository's contents will be publicly releasable under an open license.
 - I have determined that the project poses no undue risk to DC Government staff or infrastructure, or to District residents.
 - My supervisor has reviewed my analysis and agreed in writing (email) that I can move forward.
 - I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
 
-### Scenario 4: I want to push or pull commits to an existing DCgov GitHub repository
+### Scenario 4: I want to use GitHub to work on a new project in a private repository
 
-- My commits do not contain any private keys, tokens, passwords, or other authentication information.
-- My commits do not contain any personally identifiable information.
-- My commits' contents are in line with the repository's existing license.
+Creating private repositories within DCgov is discouraged. If you believe you have a valid reason to do so, send an email explaining the repository's proposed contents and your reasoning to opensource@dc.gov.
