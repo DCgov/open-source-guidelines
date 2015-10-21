@@ -1,12 +1,12 @@
-# DOCter
+# DC Open Source Guidelines
 
-DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
+This site uses the DOCter [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
 
 ![DOCter Screenshot](https://github.com/ascott1/DOCter/blob/gh-pages/assets/img/screenshot.png?raw=true)
 
 [See the demo](http://cfpb.github.io/DOCter/)
 
-## To run DOCter locally
+## To run the site locally
 
 Be sure to have Jekyll and Kramdown installed.
 
@@ -18,8 +18,8 @@ gem install kramdown
 Fork and clone the repo:
 
 ```
-git clone git@github.com:cfpb/DOCter.git
-cd DOCter
+git clone git@github.com:DCgov/open-source-guidelines.git
+cd open-source-guidelines
 ```
 Run Jekyll:
 
