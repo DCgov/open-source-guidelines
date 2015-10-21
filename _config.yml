@@ -5,19 +5,19 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: Open Source Guidelines
+subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DOCter'
+baseurl: '/open-source-guidelines'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
+  name: DCDS
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -36,16 +36,16 @@ navigation:
 - text: Working on GitHub
   url: github_guidelines.html
   internal: true
-- text: DOCter Repo
-  url: https://github.com/dcgov/DOCter
+- text: Edit this Repo
+  url: https://github.com/dcgov/open-source-guidelines
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/dcgov/DOCter
+- name: open-source-guidelines
+  description: 
+  url: https://github.com/dcgov/open-source-guidelines
 
 # Style Variables
 brand_color: "#2cb34a"
