@@ -11,7 +11,9 @@ The District is moving toward a policy of "open by default." This means that unl
 
 Currently, abiding by the second two points requires going through a rigorous security and privacy review process.
 
-This page lays out several scenarios and provides a 'fast track' checklist to help your team accelerate the review process in cases where the security risk is low. If you and/or your supervisor have doubts regarding any checklist item, it should be a good signal that a more extensive review may be warranted.
+This page lays out several scenarios and provides a 'fast track' checklist to help your team accelerate the review process in cases where the security risk is low. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review may be warranted.
+
+On a final note, this document assumes basic fluency in key Git concepts such as fork, and repository. If you or your team need orientation on Git, Github, or Open Source generally, a great overview can be found [here](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/). You may also arrange a training session by sending an email to opensource@dc.gov.
 
 ### Scenario 1: I want to fork a third-party GitHub repository for use in a DC Government project
 
