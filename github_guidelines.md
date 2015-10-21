@@ -22,9 +22,11 @@ On a final note, this document assumes basic fluency in key Git concepts such as
 
 ### Scenario 2: I want to publish an existing DC Government project to GitHub
 
-- I have removed all private keys, tokens, passwords, and other authentication information.
-- I have removed all personally identifiable information (PII).
-- I have determined that the license(s) and contract(s) governing the project's contents permit their public release.
+- I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information. 
+  - Use [Clouseau](https://github.com/cfpb/clouseau) to scan the source code.
+- I have determined that the license(s) and contract(s) governing the project's contents permit their public release and that there are no licensing conflicts.
+- I have included a README with a clear project description. If applicable, these include installation instructions that have been tested on a clean machine.
+- Multiple contributors have reviewed the projects content.
 - I have sent an email to opensource@dc.gov, laying out the repository's proposed content and received confirmation.
 
 ### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
