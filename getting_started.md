@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Getting Started on GitHub"
+title:  "Getting Started"
 ---
 
 ### Setting Up a GitHub Account
