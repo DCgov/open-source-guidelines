@@ -11,7 +11,7 @@ The District is moving toward a policy of "open by default." This means that unl
 
 Currently, abiding by the second two points requires going through a rigorous security and privacy review process.
 
-This page lays out several scenarios and provides a 'fast track' checklist to help your team accelerate the review process in cases where the security risk is low.
+This page lays out several scenarios and provides a 'fast track' checklist to help your team accelerate the review process in cases where the security risk is low. If you and/or your supervisor have doubts regarding any checklist item, it should be a good signal that a more extensive review may be warranted.
 
 ### Scenario 1: I want to fork a third-party GitHub repository for use in a DC Government project
 
@@ -31,3 +31,9 @@ This page lays out several scenarios and provides a 'fast track' checklist to he
 - [ ] I have determined that the project poses no undue risk to DC Government staff or infrastructure, or to District residents.
 - [ ] My supervisor has reviewed my analysis and agreed in writing (email) that I can move forward.
 - [ ] I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
+
+### Scenario 4: I want to push or pull commits to an existing DCgov GitHub repository
+
+- [ ] My commits do not contain any private keys, tokens, passwords, or other authentication information.
+- [ ] My commits do not contain any personally identifiable information.
+- [ ] My commits' contents are in line with the repository's existing license.
