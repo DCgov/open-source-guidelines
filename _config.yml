@@ -36,6 +36,9 @@ navigation:
 - text: Working in the Open
   url: github_guidelines.html
   internal: true
+- text: Open Source Style Guide
+  url: https://pages.18f.gov/open-source-guide/
+  internal: false
 - text: Edit this Repo
   url: https://github.com/dcgov/open-source-guidelines
   internal: false
