@@ -3,7 +3,7 @@ layout: page
 title:  "Working in the Open"
 ---
 
-We strongly believe in working in the open: it encourages collaboration, promotes a positive work environment, and usually results in a better end-product. In part, this comes from the need to be vigilant about the information one is making public and the resources one is using.
+We strongly believe in working in the open: it encourages collaboration, promotes a positive work environment, and results in a better end-product. Our work being subject to outside scrutiny forces us to rethink assumptions, makes us more vigilant in reviewing for issues, encourages thorough documentation, and invites outside contributors to suggest or make improvements.
 
 This page lays out several scenarios and provides a 'fast track' checklist to help your team work well in the open. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review process may be warranted.
 
@@ -19,19 +19,20 @@ This document assumes basic fluency in key Git concepts such as fork, and reposi
 - I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information.
 - I have determined that the license(s) and contract(s) governing the project's contents permit their public release and that there are no licensing conflicts.
 - I have included a README with a clear project description. If applicable, these include installation instructions that have been tested on a clean machine.
-- Multiple contributors have reviewed the project's content.
+- I have included a LICENSE that describes how the project is licensed and notes the presence of third-party code with different license requirements.
+- Multiple contributors have ensured that the above steps are followed.
 - I have sent an email to opensource@dc.gov, laying out the repository's proposed content and received confirmation.
 
 ### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
 
 - I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information.
-- My commits' contents are in line with the repository's existing license.
+- My commits' contents are allowed to be released under the repository's existing license.
 
 ### Scenario 4: I want to use GitHub to work on a new project in the open
 
 - I have confirmed that the repository's contents will be publicly releasable under an open license.
 - I have determined that the project poses no undue risk to DC Government staff or infrastructure, or to District residents.
-- My supervisor has reviewed my analysis and agreed in writing (email) that I can move forward.
+- Multiple contributors have ensured that the above steps are followed.
 - I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
 
 ### Scenario 5: I want to use GitHub to work on a new project in a private repository
