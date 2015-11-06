@@ -3,7 +3,7 @@ layout: page
 title:  "Getting Started"
 ---
 
-The District is moving toward a policy of "open by default." This means that unless there is a compelling reason to do otherwise, we intend to:
+The District is piloting a open source development through its innovation program, Office of the Chief Technology Officer, and partner agencies.  This guide is designed to help those participating in the pilot get up to speed and use open source technologies in a consistent way.  The pilot will gradually be expanded, this guide and other policy/process materials will be refined and expanded, and then a proper Open Source program will be launched.  The pilot and eventual program will enable DC Government to:
 
 * Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 * Develop our work in the open.
