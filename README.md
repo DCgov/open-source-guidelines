@@ -21,8 +21,10 @@ cd open-source-guidelines
 Run Jekyll:
 
 ```
-jekyll serve --baseurl ''
+bundle exec jekyll serve --watch --baseurl ''
 ```
+
+Open it up in your browser: <http://localhost:4000/>
 
 
 ## _config.yml
