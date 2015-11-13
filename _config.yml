@@ -34,13 +34,8 @@ navigation:
 - text: Home
   url: ./
   internal: true
-<<<<<<< HEAD
 - text: Getting Started
   url: getting_started.html
-=======
-- text: Example Page
-  url: example_page
->>>>>>> cfpb/gh-pages
   internal: true
 - text: Working in the Open
   url: github_guidelines.html
