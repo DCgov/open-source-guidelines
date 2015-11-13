@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: DC Open Source Guidelines
+name: DC Government Open Source Guidelines
 subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -17,12 +17,12 @@ baseurl: '/open-source-guidelines'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: DCDS
-  url: http://localhost:4000
+  name: The Office of Technology Innovation
+  url: http://octo.dc.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
-logoalt:
+logourl: assets/img/dc_logo.png
+logoalt: The D.C. flag
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -36,9 +36,12 @@ navigation:
 - text: Working in the Open
   url: github_guidelines.html
   internal: true
+- text: Managing Permissions
+  url: permissions.html
+  internal: true  
 - text: Open Source Style Guide
-  url: https://pages.18f.gov/open-source-guide/
-  internal: false
+  url: style.html
+  internal: true
 - text: Edit this Repo
   url: https://github.com/dcgov/open-source-guidelines
   internal: false
@@ -51,4 +54,4 @@ repos:
   url: https://github.com/dcgov/open-source-guidelines
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#DA253B"

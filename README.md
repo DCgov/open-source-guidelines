@@ -1,14 +1,15 @@
 # DC Open Source Guidelines
 
-This is a DRAFT of the Open Source Guidelines for DC Government.
+Draft Open Source Guidelines for DC Government
 
 ## To run the site locally
 
-Be sure to have Jekyll and Kramdown installed.
+Be sure to have Jekyll, Kramdown, and Pygments installed.
 
 ```
 gem install jekyll
 gem install kramdown
+gem install pygments.rb
 ```
 
 Fork and clone the repo:

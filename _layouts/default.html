@@ -25,7 +25,7 @@
       <header role="banner">
         <div class="wrap">
           {% if site.logourl != null %}
-            <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
+            <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}" width="75px">
           {% endif %}
           <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
         </div>
@@ -43,9 +43,7 @@
 
       <footer role="contentinfo">
         <div class="wrap">
-          <p>This project is maintained by <a href="{{ site.author.url }}">{{ site.author.name }}</a>.</p>
-
-          <p>Hosted on <a href="http://pages.github.com/">GitHub Pages</a>.</p>
+          <p>This is a project of <a href="{{ site.author.url }}">{{ site.author.name }}</a>.</p>
         </div><!--/.wrap -->
       </footer>
     </div> <!-- /.container -->
