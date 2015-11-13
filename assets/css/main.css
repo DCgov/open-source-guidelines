@@ -77,6 +77,43 @@ h4 {
 }
 
 /*
+Glossary
+==================================
+*/
+
+#glossary {
+    display: none;
+    background-color: white;
+    border-left: 4px solid black;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 20rem;
+    overflow-y: scroll;
+    padding: 2rem;
+    position: fixed;
+    z-index: 500;
+}
+
+#glossary ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+#glossary li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#glossary li[hidden-term=true] {
+    display: none;
+}
+
+#glossary input {
+    width: 90%;
+}
+
+/*
 Lists
 --------------------------------
 */
@@ -241,7 +278,6 @@ header {
     background-color: #fff;
     padding: 2em 0;
 }
-
 
 /*
 Footer

@@ -46,6 +46,10 @@ navigation:
 - text: Open Source Style Guide
   url: style.html
   internal: true
+- text: Glossary of Terms
+  global: true
+  global_class: glossary-toggle
+  global_anchor: glossary
 - text: Edit this Repo
   url: https://github.com/dcgov/open-source-guidelines
   internal: false

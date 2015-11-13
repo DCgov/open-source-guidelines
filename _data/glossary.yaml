@@ -1,0 +1,9 @@
+- term: Fork
+  slug: fork
+  definition: Fork description
+- term: Two-Factor Authentication
+  slug: two-factor-authentication
+  definition: 2FA description
+- term: Git
+  slug: git
+  definition: Git description

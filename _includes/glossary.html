@@ -1,0 +1,21 @@
+<div id="glossary">
+  <div class="glossary-toggle">Close</div>
+  <h3>Glossary of Terms</h3>
+  <input type="search" id="glossary-search" placeholder="e.g. open source">
+  <span class="glossary-clear">X</span>
+  <div id="glossary-terms">
+    <ul>
+      {% assign sorted_glossary = site.data.glossary | sort: "term" %}
+      {% for item in sorted_glossary %}
+        <li class="glossary-term" hidden-term="false" id={{ item.slug }}>
+          <div class="glossary-term-name">
+            <strong>{{ item.term }}</strong>
+          </div>
+          <div class="glossary-term-definition">
+            {{ item.definition }}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

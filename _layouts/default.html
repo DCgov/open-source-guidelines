@@ -14,6 +14,13 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/ui.js"></script>
+    <script>
+      var glossary_data = {{ site.data.glossary | jsonify }};
+    </script>
+
+
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
@@ -40,6 +47,8 @@
         </section>
 
       </div><!-- /.wrap content -->
+
+      {% include glossary.html %}
 
       <footer role="contentinfo">
         <div class="wrap">
