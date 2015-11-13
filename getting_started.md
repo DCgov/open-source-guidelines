@@ -3,7 +3,7 @@ layout: page
 title:  "Getting Started"
 ---
 
-The District is piloting a centralized approach to open source development.  The goal of the pilot is to establish a shared home for open source projects regardless of their home agency that has enough flexibility to support individual agency and project needs while still reaping the benefits of shared practices and increased discoverability for the public.
+The District is piloting a coordinated approach to open source development.  The goal of the pilot is to establish a shared home and governance model for open source projects, regardless of the sponsor agency, that has enough flexibility to support individual agency and project needs.  We expect to see decreased development costs, increased public engagement, and greater cross-agency collaboration as a result.
 
 This guide is designed to help those participating in the pilot get up to speed and collaborate.  As teams join the pilot, their feedback will be incorporated here.  Assuming that the pilot is successful, a formal policy and expanded guidelines will be developed and the open source program will be officially launched.  
 
@@ -13,11 +13,21 @@ The pilot and eventual program will enable DC Government to:
 * Develop our work in the open, enabling public feedback and collaboration throughout the development lifecycle.
 * Contribute code to open source projects maintained by third parties, such as other municipalities.
 
-To help foster this shift, we have created [DCgov](https://github.com/dcgov) as the home for DC Government projects on [GitHub](https://github.com/). Any DC government staff member or authorized contractor can (and is encouraged to) become a member by setting up a Github account and requesting access.
+
+### Github 101
+
+[GitHub](https://github.com/) is a free web service built on top of the open source versioning tool Git. We've set up [DCgov](https://github.com/dcgov) as an organization on on Github where it will serve as home for DC Government projects. 
+
+Any DC government staff member or authorized contractor can (and is encouraged to) become a member by setting up a Github account and requesting access.
+
+A good getting started guide for Github is available [here](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) and a hands on tutorial can be found [here](https://guides.github.com/activities/hello-world/).  
+
+You can also set up an appointment for a training session with the Innovation team - [email us](mailto:opensource@dc.gov).
+
 
 ### Setting Up a GitHub Account
 
-Start out by [creating a free account](https://github.com/join) on GitHub. If you have used GitHub in the past and already have an account set up, there is no need to open a new one. Just use some common sense to ensure that your username and avatar are work-appropriate. If you are using a pre-existing GitHub you should also add your dc.gov email address to your profile.
+Start out by [creating a free account](https://github.com/join) on GitHub. If you have used GitHub in the past and already have an account set up, there is no need to open a new one. Just use some common sense to ensure that your username and avatar are work-appropriate. If you are using a pre-existing GitHub you should also add your dc.gov email address to your profile. 
 
 As an added layer of security, you may want to [enable two-factor authentication](https://github.com/settings/security), or 2FA. More information on 2FA is available [here](https://help.github.com/articles/about-two-factor-authentication/).
 

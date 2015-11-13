@@ -7,12 +7,11 @@ We strongly believe in working in the open: it encourages collaboration, promote
 
 This page lays out several scenarios and provides a 'fast track' checklist to help your team work well in the open. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review process may be warranted.
 
-This document assumes basic fluency in key Git concepts such as fork, and repository. If you or your team need orientation on Git, Github, or Open Source generally, a great overview can be found [here](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/). You may also arrange a training session by sending an email to opensource@dc.gov.
-
 ### Scenario 1: I want to fork a third-party GitHub repository for use in a DC Government project
 
 - I understand the terms under which the source repository is licensed.
 - I have determined that the source repository's license permits modification and re-use.
+
 
 ### Scenario 2: I want to publish an existing DC Government project to GitHub
 
@@ -23,10 +22,12 @@ This document assumes basic fluency in key Git concepts such as fork, and reposi
 - Multiple contributors have ensured that the above steps are followed.
 - I have sent an email to opensource@dc.gov, laying out the repository's proposed content and received confirmation.
 
+
 ### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
 
 - I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information.
 - My commits' contents are allowed to be released under the repository's existing license.
+
 
 ### Scenario 4: I want to use GitHub to work on a new project in the open
 
@@ -34,6 +35,7 @@ This document assumes basic fluency in key Git concepts such as fork, and reposi
 - I have determined that the project poses no undue risk to DC Government staff or infrastructure, or to District residents.
 - Multiple contributors have ensured that the above steps are followed.
 - I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
+
 
 ### Scenario 5: I want to use GitHub to work on a new project in a private repository
 
