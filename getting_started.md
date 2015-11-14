@@ -41,7 +41,4 @@ Team members may be granted read, write, or administrative permissions to their 
 
 Individuals other than DC Government staff and contractors may be added as 'outside collaborators' to individual repositories on a case-by-case basis and with confirmation from [opensource@dc.gov](mailto:opensource@dc.gov)
 
-For more information on permissions management, see [the policy](/policy.html).
-lto:opensource@dc.gov)
-
-For more information on permissions management, see [the policy](/policy.html).
+For more information on permissions management, see [the policy](open-source-guidelines/policy.html).
