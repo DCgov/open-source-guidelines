@@ -20,7 +20,7 @@ This page lays out several scenarios and provides a 'fast track' checklist to he
 - I have included a README with a clear project description. If applicable, these include installation instructions that have been tested on a clean machine.
 - I have included a LICENSE that describes how the project is licensed and notes the presence of third-party code with different license requirements.
 - Multiple contributors have ensured that the above steps are followed.
-- I have sent an email to opensource@dc.gov, laying out the repository's proposed content and received confirmation.
+- I have sent an email to [opensource@dc.gov](mailto:opensource@dc.gov), laying out the repository's proposed content and received confirmation.
 
 
 ### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
@@ -34,9 +34,9 @@ This page lays out several scenarios and provides a 'fast track' checklist to he
 - I have confirmed that the repository's contents will be publicly releasable under an open license.
 - I have determined that the project poses no undue risk to DC Government staff or infrastructure, or to District residents.
 - Multiple contributors have ensured that the above steps are followed.
-- I have sent an email to opensource@dc.gov laying out the repository's proposed content and received confirmation.
+- I have sent an email to [opensource@dc.gov](mailto:opensource@dc.gov) laying out the repository's proposed content and received confirmation.
 
 
 ### Scenario 5: I want to use GitHub to work on a new project in a private repository
 
-Creating private repositories within DCgov is discouraged. If you believe you have a valid reason to do so, send an email explaining the repository's proposed contents and your explanation to opensource@dc.gov.
+Creating private repositories within DCgov is discouraged. If you believe you have a valid reason to do so, send an email explaining the repository's proposed contents and your explanation to [opensource@dc.gov](mailto:opensource@dc.gov).
