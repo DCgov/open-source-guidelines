@@ -1,7 +1,7 @@
 ##Welcome! 
 
-These are draft guidelines for the use and creation of open source code in DC Government.  Currently these guidelines are in use as part of a pilot program launched by the Office of Technology and Innovation at the [Office of the Chief Technology Officer](http://octo.dc.gov).  
+These are draft guidelines for using and working on open source code in DC Government. They are being developed as part of a pilot program launched by the Office of Technology and Innovation in the [Office of the Chief Technology Officer](http://octo.dc.gov).
 
-We're using these guidelines ourselves and welcome participation from development teams across DC government. The goal is to scale participation in the pilot to include as many projects, teams, and agencies as possible over time. If your team would like to find out more please reach out to [opensource@dc.gov](opensource@dc.gov).
+This is a living document, which we are using in our own work. We welcome collaboration, participation, and feedback from teams across DC government as we scale the program. 
 
-Please take a look around and contribute your thoughts and questions. 
+If you would like to find out more, please reach out to [opensource@dc.gov](opensource@dc.gov). You can also propose edits to the guidelines [here](https://github.com/dcgov/open-source-guidelines).
