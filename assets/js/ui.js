@@ -10,7 +10,7 @@ $(document).ready(function() {
     $(".glossary-term").attr("hidden-term", "false");
   });
 
-  $("#glossary-search").change(function() {
+  $("#glossary-search").on('input', function() {
     var search = $("#glossary-search").val().toLowerCase();
 
     $(glossary_data).each(function(index, value) {
