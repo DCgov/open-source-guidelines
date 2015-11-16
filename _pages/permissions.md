@@ -4,7 +4,7 @@ title:  "Permissions Management"
 ---
 
 ### Who can be added as a member the DCgov GitHub organization?
-* Both DC Government civil service staff and authorized contractors may be added as organization members. To join, they must email their GitHub username to [opensource@dc.gov](mailto:opensource@dc.gov) from their official DC Government email address.  Additionally, they are required to add their @dc.gov email address to their Github account.  These users are not required to create a new, dedicated Github account for their government work.
+* Both DC Government civil service staff and authorized contractors may be added as organization members. To join, they must email their GitHub username to [opensource@dc.gov](mailto:opensource@dc.gov) from their official DC Government email address.  Users are not required to create a new, dedicated Github account for their government work.
 * Non-DC Government staff, unauthorized contractors, and members of the public may not be added as organization member. However, they may be added to repositories as 'outside collaborators' on a case-by-case basis and with approval from [opensource@dc.gov](mailto:opensource@dc.gov).
 
 ### What permissions do members have?
