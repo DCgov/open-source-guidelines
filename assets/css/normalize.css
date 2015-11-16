@@ -367,10 +367,12 @@ input[type="search"] {
  * on OS X.
  */
 
+/*
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
     -webkit-appearance: none;
 }
+*/
 
 /**
  * Remove inner padding and border in Firefox 4+.
