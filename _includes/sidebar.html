@@ -5,7 +5,7 @@
     <ul>
       {% for link in site.navigation %}
         {% if link.bookmark == true %}
-            <li class="{{ link.bookmark_class }}"><a href="#">{{ link.text }}</a></li>
+            <li class="{{ link.bookmark_class }}"><a href="#glossary">{{ link.text }}</a></li>
         {% elsif link.internal == true %}
             <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>   
         {% else %}
