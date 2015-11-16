@@ -15,7 +15,7 @@ This page lays out several scenarios and provides a 'fast track' checklist to he
 
 ### Scenario 2: I want to publish an existing DC Government project to GitHub
 
-- I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information.
+- I have removed all personally identifiable information (PII), including private keys, tokens, passwords, IP addresses, and other authentication information.
 - I have determined that the license(s) and contract(s) governing the project's contents permit their public release and that there are no licensing conflicts.
 - I have included a README with a clear project description. If applicable, these include installation instructions that have been tested on a clean machine.
 - I have included a LICENSE that describes how the project is licensed and notes the presence of third-party code with different license requirements.
@@ -25,7 +25,7 @@ This page lays out several scenarios and provides a 'fast track' checklist to he
 
 ### Scenario 3: I want to push or pull commits to an existing DCgov GitHub repository
 
-- I have removed all personally identifiable information (PII), private keys, tokens, passwords, and other authentication information.
+- I have removed all personally identifiable information (PII), including private keys, tokens, passwords, IP addresses, and other authentication information.
 - My commits' contents are allowed to be released under the repository's existing license.
 
 
