@@ -3,7 +3,9 @@ layout: page
 title: "Getting Started"
 ---
 
-The District is piloting a coordinated approach to open source development. The goal is to establish a shared home and governance model for all agencies' open source projects, with enough flexibility to support diverse agency and project needs. We expect to see decreased development costs, increased public engagement, and greater cross-agency collaboration as a result.
+The District is piloting a coordinated approach to open source development. The goal is to establish a shared home and governance model for all agencies' open source projects, with enough flexibility to support diverse agency and project needs. 
+
+We expect the result to be lower development costs, improved public engagement, and greater cross-agency collaboration.
 
 This guide is designed to help quickly onboard new users into the pilot. As teams join in, their feedback will be incorporated here. Assuming that the pilot is successful, a formal policy and expanded guidelines will be developed and the open source program will be officially launched.
 
@@ -41,4 +43,4 @@ Team members may be granted read, write, or administrative permissions to their 
 
 Individuals other than DC Government staff and contractors may be added as 'outside collaborators' to individual repositories on a case-by-case basis and with confirmation from [opensource@dc.gov](mailto:opensource@dc.gov)
 
-For more information on permissions management, see [the policy](open-source-guidelines/policy.html).
+For more information on permissions management, see [the policy]("{{ site.baseurl }}/permissions/").
