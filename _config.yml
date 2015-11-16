@@ -1,8 +1,12 @@
 # Base configuration
-permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 highlighter: pygments
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Title
 name: DC Government Open Source Guidelines
@@ -28,19 +32,19 @@ logoalt: The D.C. flag
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: index.html
+  url: ./
   internal: true
 - text: Getting Started
-  url: getting_started.html
+  url: getting_started
   internal: true
 - text: Working in the Open
-  url: github_guidelines.html
+  url: github_guidelines
   internal: true
 - text: Managing Permissions
-  url: permissions.html
+  url: permissions
   internal: true  
 - text: Open Source Style Guide
-  url: style.html
+  url: style
   internal: true
 - text: Edit this Repo
   url: https://github.com/dcgov/open-source-guidelines

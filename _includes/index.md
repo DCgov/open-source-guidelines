@@ -4,4 +4,4 @@ These are draft guidelines for using and working on open source code in DC Gover
 
 This is a living document, which we are using in our own work. We welcome collaboration, participation, and feedback from teams across DC government as we scale the program. 
 
-If you would like to find out more, please reach out to [opensource@dc.gov](opensource@dc.gov). You can also propose edits to the guidelines [here](https://github.com/dcgov/open-source-guidelines).
+If you would like to find out more, please reach out to [opensource@dc.gov](mailto:opensource@dc.gov). You can also propose edits to the guidelines [here](https://github.com/dcgov/open-source-guidelines).

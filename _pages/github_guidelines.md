@@ -3,7 +3,7 @@ layout: page
 title:  "Working in the Open"
 ---
 
-We strongly believe in working in the open: it encourages collaboration, promotes a positive work environment, and results in a better end-product. Our work being subject to outside scrutiny forces us to rethink assumptions, makes us more vigilant in reviewing for issues, encourages thorough documentation, and invites outside contributors to suggest or make improvements.
+We strongly believe in working in the open. Doing so leads to a better end-product by: encouraging collaboration within and outside of DC government, promoting a positive work atmosphere, and compelling us to thoughtfully review for issues and document what we create.
 
 This page lays out several scenarios and provides a 'fast track' checklist to help your team work well in the open. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review process may be warranted.
 
