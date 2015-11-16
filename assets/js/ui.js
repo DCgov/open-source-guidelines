@@ -7,7 +7,6 @@ $(document).ready(function() {
 
   $(".glossary-clear").click(function() {
     $("#glossary-search").val("");
-    $(".glossary-term").attr("hidden-term", "false");
   });
 
   $("#glossary-search").on('input', function() {
