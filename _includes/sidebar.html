@@ -4,8 +4,8 @@
   <nav class="sidebar-nav" role="navigation">
     <ul>
       {% for link in site.navigation %}
-        {% if link.global == true %}
-            <li class="{{ link.global_class }}"><a href="#glossary">{{ link.text }}</a></li>
+        {% if link.bookmark == true %}
+            <li class="{{ link.bookmark_class }}"><a href="#">{{ link.text }}</a></li>
         {% elsif link.internal == true %}
             <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>   
         {% else %}
