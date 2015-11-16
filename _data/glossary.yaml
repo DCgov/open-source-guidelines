@@ -7,3 +7,24 @@
 - term: Git
   slug: git
   definition: Git description
+- term: Personally Identifiable Information (PII)
+  slug: personally-identifiable-information
+  definition: PII description
+- term: Private Key
+  slug: private-key
+  definition: Private key description
+- term: GitHub
+  slug: github
+  definition: GitHub description
+- term: Open Source
+  slug: open-source
+  definition: Open source description
+- term: Repository
+  slug: repository
+  definition: Repository description
+- term: Push
+  slug: push
+  definition: Push description
+- term: Commit
+  slug: commit
+  definition: Commit description
