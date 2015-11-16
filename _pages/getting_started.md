@@ -31,7 +31,7 @@ You can also set up a training session with the Innovation team by [emailing us]
 
 Start out by [creating a free account](https://github.com/join) on GitHub. If you have used GitHub in the past and already have an account set up, there is no need to open a new one. Just use some common sense to ensure that your username and avatar are work-appropriate. If you are using a pre-existing GitHub you should also add your dc.gov email address to your profile.
 
-As an added layer of security, you may want to [enable two-factor authentication](https://github.com/settings/security), or 2FA. More information on 2FA is available [here](https://help.github.com/articles/about-two-factor-authentication/).
+As an added layer of security, you should [enable two-factor authentication](https://github.com/settings/security), or 2FA. More information on 2FA is available [here](https://help.github.com/articles/about-two-factor-authentication/).
 
 ### Joining DCgov on GitHub
 
