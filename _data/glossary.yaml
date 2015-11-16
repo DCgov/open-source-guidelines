@@ -18,7 +18,7 @@
   definition: GitHub is a web-based platform on which you can host and work on Git repositories. It provides a number of useful features, including bug tracking, feature requests, and task management.
 - term: Open Source
   slug: open-source
-  definition: Open source software licenses enforce freedom to access, reuse, and modify a program's source code for free and without restriction. See also the [Open Source Definition](https://opensource.org/osd-annotated).
+  definition: In brief, open source licenses allow software to be freely used, modified, and shared. They abide by standards laid out in the [Open Source Definition](https://opensource.org/osd-annotated).
 - term: Repository
   slug: repository
   definition: Repositories are places where a Git project's files and their revision history are stored.
