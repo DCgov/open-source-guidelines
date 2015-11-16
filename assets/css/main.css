@@ -113,6 +113,14 @@ Glossary
     width: 100%;
 }
 
+#glossary .glossary-term-name {
+    font-weight: 600;
+}
+
+#glossary .glossary-toggle {
+    cursor: pointer;
+}
+
 /*
 Lists
 --------------------------------
