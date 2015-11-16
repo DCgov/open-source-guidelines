@@ -1,30 +1,33 @@
 - term: Fork
   slug: fork
-  definition: Fork description
-- term: Two-Factor Authentication
+  definition: A fork is a copy of someone else's Git repository. You can make changes to your fork without affecting the original project.
+- term: Two-Factor Authentication (2FA)
   slug: two-factor-authentication
-  definition: 2FA description
+  definition: In two-factor authentication, two different components are used in combination to verify a user's identity (e.g. a password and a single-use token sent to your email).
 - term: Git
   slug: git
-  definition: Git description
+  definition: Git is a popular free and open source system for tracking changes in text-based files. It is primarily used for software development.
 - term: Personally Identifiable Information (PII)
   slug: personally-identifiable-information
-  definition: PII description
+  definition: PII is any information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 - term: Private Key
   slug: private-key
-  definition: Private key description
+  definition: Private keys are a kind of PII used to decrypt messages sent over the Internet. They form part of a system called [Public-Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography).
 - term: GitHub
   slug: github
-  definition: GitHub description
+  definition: GitHub is a web-based platform on which you can host and work on Git repositories. It provides a number of useful features, including bug tracking, feature requests, and task management.
 - term: Open Source
   slug: open-source
-  definition: Open source description
+  definition: Open source software licenses enforce freedom to access, reuse, and modify a program's source code for free and without restriction. See also the [Open Source Definition](https://opensource.org/osd-annotated).
 - term: Repository
   slug: repository
-  definition: Repository description
+  definition: Repositories are places where a Git project's files and their revision history are stored.
 - term: Push
   slug: push
-  definition: Push description
+  definition: Pushing allows you to share the Git commits you have made with others. 
 - term: Commit
   slug: commit
-  definition: Commit description
+  definition: Committing records changes made to a Git repository.
+- term: Token
+  slug: token
+  definition: A software token can be used in two-factor authentication to authorize access to computer services.
