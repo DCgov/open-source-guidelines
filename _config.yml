@@ -46,6 +46,9 @@ navigation:
 - text: Open Source Style Guide
   url: style
   internal: true
+- text: Glossary of Terms
+  bookmark: true
+  bookmark_class: glossary-toggle
 - text: Edit this Repo
   url: https://github.com/dcgov/open-source-guidelines
   internal: false
@@ -56,6 +59,9 @@ repos:
 - name: open-source-guidelines
   description: 
   url: https://github.com/dcgov/open-source-guidelines
+
+# Analytics
+google_analytics_ua: 
 
 # Style Variables
 brand_color: "#DA253B"
