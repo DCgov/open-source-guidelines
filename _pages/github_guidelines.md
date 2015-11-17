@@ -5,7 +5,7 @@ title:  "Working in the Open"
 
 We strongly believe in working in the open. Doing so leads to a better end-product by: encouraging collaboration within and outside of DC government, promoting a positive work atmosphere, and compelling us to thoughtfully review for issues and document what we create.
 
-This page lays out several scenarios and provides a 'fast track' checklist to help your team work well in the open. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review process may be warranted.
+This page lays out several scenarios and provides a checklist to help your team work well in the open. If you and/or your supervisor have doubts regarding any checklist item, it is likely a signal that a more extensive review process may be warranted and you should reach out to [opensource@dc.gov](mailto:opensource@dc.gov) for guidance.
 
 ### Scenario 1: I want to fork a third-party GitHub repository for use in a DC Government project
 
