@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Permissions Management"
+title:  "Managing permissions for your project"
 ---
 
 ### Who can be added as a member the DCgov GitHub organization?
