@@ -37,24 +37,25 @@ navigation:
 - text: Joining the Pilot
   url: getting_started
   internal: true
+- text: Managing Teams
+  url: permissions
+  internal: true  
 - text: Working in the Open
   url: github_guidelines
   internal: true
-- text: Managing Permissions
-  url: permissions
-  internal: true  
 - text: Style Guide
   url: style
   internal: true
 - text: Licensing
   url: licensing
   internal: true
+- text: Edit this Site
+  url: https://github.com/dcgov/open-source-guidelines
+  internal: false
 - text: Glossary of Terms
   bookmark: true
   bookmark_class: glossary-toggle
-- text: Edit this Repo
-  url: https://github.com/dcgov/open-source-guidelines
-  internal: false
+  
 
 # Repo list
 # List repos that you would like to appear on the homepage here
