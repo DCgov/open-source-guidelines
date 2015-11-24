@@ -1,18 +1,17 @@
-##Welcome! 
-The District is piloting a coordinated approach to open source development. The goal is to establish a shared home, governance, and styleguide for all agencies' open source projects, with enough flexibility to support diverse agency and project needs. 
+## Welcome!
 
-The open source program will enable agencies to:
+The District is piloting a new program to promote the use and development of open source code within its agencies. The aim is to establish a shared home and governance model for all DC Government open source projects, with enough flexibility to support diverse agency and project needs.
 
+The program will enable agencies to:
+
+* Develop their work in the open, enabling public feedback and collaboration from day one.
 * Use open source software developed by third parties.
-* Contribute code to open source projects maintained by third parties.
-* Develop our work in the open, enabling public feedback and collaboration from day one.
+* Contribute to open source projects maintained by third parties.
 
-Based on the results of the pilot, formal policy and expanded guidance will be developed and the open source program will be officially launched in the coming months.
+Based on the results of the Open Source Pilot, a more formal open source policy will be developed and launched in the coming months.
 
+All DC Government teams are welcome to take part in the Pilot, with this site designed to give you the know-how to join in.
 
-### About this site
-These are draft guidelines for using and working on open source code in DC Government. They are being actively developed as part of a pilot program launched by the [Office of the Chief Technology Officer](http://octo.dc.gov) Technology Innovation Program. 
+The site itself is a living document, actively maintained by the [Office of the Chief Technology Officer](http://octo.dc.gov) Technology Innovation Program. We welcome feedback and edits from teams across DC government and the public as we scale the program.
 
-This is a living document. We welcome feedback and edits from teams across DC government and the public as we scale the program. 
-
-If you would like to find out more, please reach out to [opensource@dc.gov](mailto:opensource@dc.gov). 
+To learn more, please [email us](mailto:opensource@dc.gov). We are excited to help!

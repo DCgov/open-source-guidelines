@@ -37,16 +37,13 @@ navigation:
 - text: Joining the Pilot
   url: getting_started
   internal: true
-- text: Managing Teams
-  url: permissions
-  internal: true  
 - text: Working in the Open
   url: github_guidelines
   internal: true
-- text: Style Guide
+- text: Documenting your Projects
   url: style
   internal: true
-- text: Licensing
+- text: Applying a License
   url: licensing
   internal: true
 - text: Edit this Site
