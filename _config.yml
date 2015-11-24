@@ -35,13 +35,13 @@ navigation:
   url: ./
   internal: true
 - text: Joining the Pilot
-  url: getting_started
+  url: joining
   internal: true
 - text: Working in the Open
-  url: github_guidelines
+  url: working
   internal: true
 - text: Documenting your Projects
-  url: style
+  url: documenting
   internal: true
 - text: Applying a License
   url: licensing

@@ -32,7 +32,7 @@ My team wants to make an existing codebase public for the first time. I have ens
 
 - All personally identifiable information (PII), including private keys, tokens, passwords, IP addresses, and other authentication information has been removed from the codebase.
 - The licenses and contracts governing the project's contents permit their public release.
-- The repository includes a [README file]({{ site.baseurl }}/style) with a clear project description. If applicable, these include installation instructions.
+- The repository includes a [README file]({{ site.baseurl }}/documenting) with a clear project description. If applicable, these include installation instructions.
 - The repository includes a [LICENSE file]({{ site.baseurl }}/licensing), which also notes the presence of any third-party code with different license requirements.
 - The project or program manager agrees that the above steps have been followed.
 

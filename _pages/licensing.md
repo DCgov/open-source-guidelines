@@ -7,7 +7,7 @@ DC Government open source code and content should be provided with the least res
 
 The following open source license and contributing texts should be applied to DC government open source projects, except where a compelling need for other provisions exists.
 
-This ["boilerplate" repository]((https://github.com/DCgov/license)) provides an example of their use.
+This ["boilerplate" repository](https://github.com/DCgov/license) provides an example of their use.
 
 ---
 
