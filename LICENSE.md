@@ -16,6 +16,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
 
+<<<<<<< HEAD
 Unless expressly stated otherwise, the Government of the District of Columbia makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. When using or citing the work, you should not imply endorsement by the District of Columbia or any of its employees, contractors, or volunteers.
 
 ## This project makes use of:
@@ -23,3 +24,6 @@ Unless expressly stated otherwise, the Government of the District of Columbia ma
 * [Respond.js](https://github.com/scottjehl/Respond) by Scott Jehl, licensed under the MIT license.
 * [The HTML5 Shiv](https://github.com/aFarkas/html5shiv), dual licensed under the MIT or GPL Version 2 licenses.
 * 
+=======
+Unless expressly stated otherwise, the Government of the District of Columbia makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. When using or citing the work, you should not imply endorsement by the District of Columbia or any of its employees, contractors, or volunteers.
+>>>>>>> origin/gh-pages

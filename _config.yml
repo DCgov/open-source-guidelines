@@ -21,7 +21,7 @@ baseurl: '/open-source-guidelines'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: The Office of Technology Innovation
+  name: OCTO Technology Innovation Progam
   url: http://octo.dc.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -34,18 +34,21 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Getting Started
-  url: getting_started
+- text: Joining the Pilot
+  url: joining
   internal: true
 - text: Working in the Open
-  url: github_guidelines
+  url: working
   internal: true
-- text: Managing Permissions
-  url: permissions
-  internal: true  
-- text: Open Source Style Guide
-  url: style
+- text: Documenting your Projects
+  url: documenting
   internal: true
+- text: Applying a License
+  url: licensing
+  internal: true
+- text: Edit this Site
+  url: https://github.com/dcgov/open-source-guidelines
+  internal: false
 - text: Glossary of Terms
   glossary: true
 - text: Edit this Repo
