@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /
+title: "Welcome"
+---
+
 ##Welcome! 
 
 These are draft guidelines for using and working on open source code in DC Government. They are being developed as part of a pilot program launched by the Office of Technology and Innovation in the [Office of the Chief Technology Officer](http://octo.dc.gov).

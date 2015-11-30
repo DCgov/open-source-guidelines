@@ -1,6 +1,8 @@
 # DC Open Source Guidelines
 
-Draft Open Source Guidelines for DC Government
+These are draft guidelines for using and working on open source code in DC Government. They are being developed as part of a pilot program launched by the Office of Technology and Innovation in the [Office of the Chief Technology Officer](http://octo.dc.gov).
+
+This is a living document, which we are using in our own work. We welcome collaboration, participation, and feedback from teams across DC government as we scale the program. 
 
 ## To run the site locally
 
@@ -11,17 +13,19 @@ git clone git@github.com:DCgov/open-source-guidelines.git
 cd open-source-guidelines
 ```
 
-Install the site's dependencies with Bundler:
+Ensure that you have Ruby (> version 2.0) installed. You can check your version by entering `ruby -v` at the command prompt.
+
+Next, install the site's dependencies with Bundler:
 
 ```
 gem install bundler
 bundle install
 ```
 
-Run the site locally:
+And run the site locally:
 
 ```
-bundle exec jekyll serve --watch --baseurl ''
+./go serve
 ```
 
 Open it up in your browser: <http://localhost:4000/>
