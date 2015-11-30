@@ -51,9 +51,6 @@ navigation:
   internal: false
 - text: Glossary of Terms
   glossary: true
-- text: Edit this Repo
-  url: https://github.com/dcgov/open-source-guidelines
-  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
