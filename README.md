@@ -9,23 +9,30 @@ This is a living document, which we are using in our own work. We welcome collab
 Fork and clone the repo:
 
 ```
-git clone git@github.com:DCgov/open-source-guidelines.git
-cd open-source-guidelines
+$ git clone git@github.com:DCgov/open-source-guidelines.git
+$ cd open-source-guidelines
 ```
 
-Ensure that you have Ruby (> version 2.0) installed. You can check your version by entering `ruby -v` at the command prompt.
+Ensure that you have Ruby (> version 2.0) installed. You can check your version by entering `ruby -v` at the command prompt. You can install Ruby most quickly with Homebrew:
+
+```
+$ brew update
+$ brew install ruby
+```
+
+Whether or not Ruby is already installed, we strongly recommend using a Ruby version manager such as [rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to help ensure that Ruby version upgrades don't mean all your [gems](https://rubygems.org/) will need to be rebuilt.
 
 Next, install the site's dependencies with Bundler:
 
 ```
-gem install bundler
-bundle install
+$ gem install bundler
+$ bundle install
 ```
 
 And run the site locally:
 
 ```
-./go serve
+$ ./go serve
 ```
 
 Open it up in your browser: <http://localhost:4000/>
