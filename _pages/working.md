@@ -38,12 +38,12 @@ My team wants to make an existing codebase public for the first time. I have ens
 
 ---
 
-### Checklist: I am forking a third-party GitHub repository for use in a DC Government project
+### Checklist: I am reusing third-party code in a DC Government project
 
-My team wants to reuse non-DC Government open source code. I have ensured that:
+My team wants to reuse non-DC Government code, as in the case of forking a third party’s repository on GitHub. I have ensured that:
 
-- I understand the terms under which the source repository is licensed.
-- The source repository's license permits modification and re-use.
+- I understand the terms under which the source code base is licensed.
+- The source code base's license permits modification and re-use.
 
 ---
 
