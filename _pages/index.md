@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /
-title: "Welcome"
+title: "Welcome!"
 ---
-
-##Welcome! 
 
 The District is piloting a new program to promote the use and development of open source code within its agencies. The aim is to establish a shared home and governance model for all DC Government open source projects, with enough flexibility to support diverse agency and project needs.
 
