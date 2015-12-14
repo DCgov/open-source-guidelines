@@ -49,6 +49,9 @@ navigation:
 - text: Edit this Site
   url: https://github.com/dcgov/open-source-guidelines
   internal: false
+- text: Participating Agencies
+  url: participants
+  internal: true
 - text: Glossary of Terms
   glossary: true
 
