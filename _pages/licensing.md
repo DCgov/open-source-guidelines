@@ -16,7 +16,7 @@ This ["boilerplate" repository](https://github.com/DCgov/license) provides an ex
 ### District of Columbia Public Domain Dedication
 
 #### Public Domain
-This project is in the public domain within the United States. Additionally, the Government of the District of Columbia [and name here contractors whose works are incorporated in the initial commit to this repository] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
+This project is in the public domain within the United States. Additionally, the Government of the District of Columbia waives copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
 
 #### CC0 1.0 Universal
 This is a human-readable summary of the CC0 1.0 Universal Legal Code. [Read the full text](https://creativecommons.org/publicdomain/zero/1.0/legalcode) for more details.
