@@ -10,7 +10,7 @@ collections:
 
 # Title
 name: DC Government Open Source Guidelines
-subtitle: 
+subtitle:
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -59,11 +59,11 @@ navigation:
 # List repos that you would like to appear on the homepage here
 repos:
 - name: open-source-guidelines
-  description: 
+  description:
   url: https://github.com/dcgov/open-source-guidelines
 
 # Analytics
-google_analytics_ua: 
+google_analytics_ua: UA-2638726-1
 
 # Style Variables
 brand_color: "#DA253B"
