@@ -21,7 +21,7 @@ Even if you have doubts regarding a checklist item, it is still very likely you 
 My team is kicking off a new project and wants to develop in the open. I have ensured that:
 
 - The repository's contents will be publicly releasable under an [open license]({{ site.baseurl }}/licensing/).
-- The project does not have a special categorical security sensivity, such as including classified information.
+- The project does not have a special categorical security sensitivity, such as including classified information.
 - The project or program manager agrees that the above conditions have been met.
 
 ---
