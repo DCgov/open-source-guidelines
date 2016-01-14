@@ -11,4 +11,6 @@ The following District Government agencies have joined the Open Source Pilot (in
 
 [Office of the Deputy Mayor for Planning and Economic Development (DMPED)](http://dmped.dc.gov/)
 
+[Office of Planning (OP)](http://planning.dc.gov/)
+
 Want to see your own agency here? Send a quick email to [opensource@dc.gov](mailto:opensource@dc.gov).
