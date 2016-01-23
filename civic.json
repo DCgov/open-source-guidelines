@@ -1,0 +1,23 @@
+{
+  "name": "Open Source Guidelines",
+  "status": "Beta",
+  "contact": {
+    "name": "Emanuel Feld",
+    "email": "opensource@dc.gov"
+  },
+  "description": "A how-to guide for agencies that have joined or would like to join DC Government's Open Source Pilot program.",
+  "type": "guide",
+  "license": "CC0-1.0",
+  "homepage": "http://open.dc.gov/open-source-guidelines/",
+  "repository": "https://github.com/dcgov/open-source-guidelines",
+  "geography": [
+    "DC"
+  ],
+  "data": [],
+  "keywords": [
+    "open source",
+    "guide"
+  ],
+  "links": [],
+  "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json"
+}
