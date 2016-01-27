@@ -10,6 +10,12 @@
   "license": "CC0-1.0",
   "homepage": "http://open.dc.gov/open-source-guidelines/",
   "repository": "https://github.com/dcgov/open-source-guidelines",
+  "partners": [
+    {
+      "name": "OCTO Innovation Program",
+      "email": "open@dc.gov"
+    }
+  ],
   "geography": [
     "DC"
   ],
