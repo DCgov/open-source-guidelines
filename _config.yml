@@ -21,7 +21,7 @@ baseurl: '/open-source-guidelines'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: OCTO Innovation Program
+  name: Office of the Chief Technology Officer
   url: http://octo.dc.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
