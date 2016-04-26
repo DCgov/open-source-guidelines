@@ -5,7 +5,7 @@ title: "Joining the Pilot"
 
 All DC Government teams are encouraged to take part in the Open Source Pilot, whether it be by proposing edits to this guide or by building new open source projects with your colleagues.
 
-Whatever form it takes, the Technology Innovation Program at OCTO is ready to help you learn the tools and techniques to participate successfully. [Email us](mailto:opensource@dc.gov) to find out more!
+Whatever form it takes, the Technology Innovation Program at OCTO is ready to help you learn the tools and techniques to participate successfully. Please [email us](mailto:opensource@dc.gov) to find out more!
 
 If you feel ready to dive in, you can get started by joining the [DCgov](https://github.com/dcgov) organization on GitHub. 
 
